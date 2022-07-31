@@ -1,4 +1,3 @@
-from cProfile import run
 import datetime as dt
 import numpy as np
 import pandas as pd
@@ -86,5 +85,5 @@ def stats(start=None, end=None):
     temps = list(np.ravel(results))
     return jsonify(temps)
 
-
-flask run
+if __name__ == "__main__":
+    app.run(debug = True)
