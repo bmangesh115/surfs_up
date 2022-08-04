@@ -18,7 +18,7 @@ The purpose is to analyze temperature and precipitation data to determine if the
 The link to the queries to create temperature summary statistics for the months of June and December.<br>
 [Temperature summary statistics](/surfsup_challenge.ipynb)<br>
 
-### DataFrame temperature summary statistics for June
+#### DataFrame temperature summary statistics for June
 
 <figure>
     <figcaption>Temperature summary statistics for June</figcaption>
@@ -26,7 +26,7 @@ The link to the queries to create temperature summary statistics for the months 
          alt="Temperature summary statistics for June">
 </figure> <br>
 
-### DataFrame temperature summary statistics for December
+#### DataFrame temperature summary statistics for December
 
 <figure>
     <figcaption>Temperature summary statistics for December</figcaption>
@@ -39,15 +39,11 @@ The link to the queries to create temperature summary statistics for the months 
 The link to the additional queries to create precipitation summary statistics for the months of June and December.<br>
 [Precipitation summary statistics](/surfsup_challenge_additional_queries.ipynb)<br>
 
-### DataFrame precipitation summary statistics for June
-
 <figure>
     <figcaption>Query and precipitation summary statistics for June</figcaption>
     <img src="/Resources/precipitation_summary_statistics_query_june.png" width=1077 height=auto
          alt="Query and precipitation summary statistics for June">
 </figure> <br>
-
-### DataFrame temperature summary statistics for December
 
 <figure>
     <figcaption>Query and precipication summary statistics for December</figcaption>
@@ -64,5 +60,4 @@ The link to the additional queries to create precipitation summary statistics fo
 5. Standar deviation of temperature statistics for December is ~3.75 degree F and for June is ~3.25 degree F.
 6. Average precipitation in December is 0.22 inches and in June is 0.14 inches.
 7. Maximum precipitation in December is 6.42 inches and in June is 4.43 inches.
-8. Overall weather in June and December is similar in terms of temperature and precipitation. 
-
+8. Overall weather in June and December is similar in terms of temperature and precipitation.
